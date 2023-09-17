@@ -1,2 +1,2 @@
-# DOm
+# DOM
 DOM Exrsise
